@@ -6,27 +6,18 @@
             id: 1,
             name: "HBO HD",
             category: "movies",
-            logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1200px-HBO_logo.svg.png",
+            logo: "https://play-lh.googleusercontent.com/r51x9GW3hp9T9H_cECjj667c3GLNymIxAgtSwnKFsUB8TCcyQaSY3TSijD0_tNfXsFc",
             stream: "https://dzkyvlfyge.erbvr.com/PeaceTvUrdu/index.m3u8", // Replaced with working test stream
             type: "m3u8",
             isHD: true
         },
         {
             id: 2,
-            name: "CNN Live",
+            name: "Republic TV",
             category: "news",
-            logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_International_logo.svg/1200px-CNN_International_logo.svg.png",
+            logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Republic_TV.svg/1200px-Republic_TV.svg.png",
             stream: "https://www.youtube.com/embed/UoQ4GO38F8U?autoplay=1",
             type: "youtube",
-            isHD: true
-        },
-        {
-            id: 3,
-            name: "Sports Channel",
-            category: "sports",
-            logo: "https://via.placeholder.com/180x120?text=Sports",
-            stream: "https://test-streams.mux.dev/tears-of-steel/tears-of-steel.m3u8",
-            type: "m3u8",
             isHD: true
         }
     ];
