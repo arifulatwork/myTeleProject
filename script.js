@@ -4,7 +4,7 @@
     const channels = [
         {
             id: 1,
-            name: "Peace TV Urdu",
+            name: "Peace TV",
             category: "movies",
             logo: "https://play-lh.googleusercontent.com/r51x9GW3hp9T9H_cECjj667c3GLNymIxAgtSwnKFsUB8TCcyQaSY3TSijD0_tNfXsFc",
             stream: "https://dzkyvlfyge.erbvr.com/PeaceTvUrdu/index.m3u8", // Replaced with working test stream
@@ -13,6 +13,24 @@
         },
         {
             id: 2,
+            name: "Peace TV",
+            category: "movies",
+            logo: "https://www.jagobd.com/wp-content/uploads/2024/08/logo_50.png",
+            stream: "https://dzkyvlfyge.erbvr.com/PeaceTvBangla/index.m3u8", // Replaced with working test stream
+            type: "m3u8",
+            isHD: true
+        },
+        {
+            id: 3,
+            name: "Peace TV",
+            category: "movies",
+            logo: "https://play-lh.googleusercontent.com/r51x9GW3hp9T9H_cECjj667c3GLNymIxAgtSwnKFsUB8TCcyQaSY3TSijD0_tNfXsFc",
+            stream: "https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8", // Replaced with working test stream
+            type: "m3u8",
+            isHD: true
+        },
+        {
+            id: 4,
             name: "Republic TV",
             category: "news",
             logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Republic_TV.svg/1200px-Republic_TV.svg.png",
