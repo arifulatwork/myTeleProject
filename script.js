@@ -4,7 +4,7 @@
     const channels = [
         {
             id: 1,
-            name: "HBO HD",
+            name: "Peace TV Urdu",
             category: "movies",
             logo: "https://play-lh.googleusercontent.com/r51x9GW3hp9T9H_cECjj667c3GLNymIxAgtSwnKFsUB8TCcyQaSY3TSijD0_tNfXsFc",
             stream: "https://dzkyvlfyge.erbvr.com/PeaceTvUrdu/index.m3u8", // Replaced with working test stream
