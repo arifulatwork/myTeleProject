@@ -46,6 +46,24 @@
             stream: "https://ekusheyserver.com/etvlivesn.m3u8", // Replaced with working test stream
             type: "m3u8",
             isHD: true
+        },
+        {
+            id: 6,
+            name: "Discover Pakistan",
+            category: "news",
+            logo: "https://play-lh.googleusercontent.com/-rCwV25I22G-AKtnywuWD9V51TDQte9QQWFa7TogTQtPFSpzyzWYL6ty1L1A17GMUQ",
+            stream: "https://livecdn.live247stream.com/discoverpakistan/web/playlist.m3u8", // Replaced with working test stream
+            type: "m3u8",
+            isHD: true
+        },
+        {
+            id: 7,
+            name: "Boishakhi",
+            category: "news",
+            logo: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2vnH6pzPAxCq9SVtOsNmLj068PxMIecvhOP4laiI6NfKQkQxOkGFmnWydYfFcl6yQwW4&usqp=CAU",
+            stream: "https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8", // Replaced with working test stream
+            type: "m3u8",
+            isHD: true
         }
         // {
         //     id: 4,
