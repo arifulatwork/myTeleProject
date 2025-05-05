@@ -37,6 +37,15 @@
             stream: "https://ap02.iqplay.tv:8082/iqb8002/d33ntv/playlist.m3u8", // Replaced with working test stream
             type: "m3u8",
             isHD: true
+        },
+        {
+            id: 5,
+            name: "ETV",
+            category: "news",
+            logo: "https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/Ekushey_Television_Logo.svg/1200px-Ekushey_Television_Logo.svg.png",
+            stream: "https://ekusheyserver.com/etvlivesn.m3u8", // Replaced with working test stream
+            type: "m3u8",
+            isHD: true
         }
         // {
         //     id: 4,
