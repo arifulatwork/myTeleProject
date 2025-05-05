@@ -64,6 +64,15 @@
             stream: "https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8", // Replaced with working test stream
             type: "m3u8",
             isHD: true
+        },
+        {
+            id: 8,
+            name: "Channel 24",
+            category: "news",
+            logo: "https://play-lh.googleusercontent.com/8cCl5EUWV51m3G8aG9CNgri7WCO0X0dIhUrDCyxtJfaqwtvq3N5RYCdfeyyV7s63iUo=s248-rw",
+            stream: "https://ch24cdn.ncare.live/live/ch24live.3bdf2cd7/playlist.m3u8?t=1f748cb53d154126aca189962fe8f3a5", // Replaced with working test stream
+            type: "m3u8",
+            isHD: true
         }
         // {
         //     id: 4,
