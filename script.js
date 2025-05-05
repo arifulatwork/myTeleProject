@@ -73,6 +73,24 @@
             stream: "https://ch24cdn.ncare.live/live/ch24live.3bdf2cd7/playlist.m3u8?t=1f748cb53d154126aca189962fe8f3a5", // Replaced with working test stream
             type: "m3u8",
             isHD: true
+        },
+        {
+            id: 9,
+            name: "Bollywood Classic",
+            category: "entertainment",
+            logo: "https://awesometv.my/upload/images/Sony_Max_Logo.jpg",
+            stream: "https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/b002ad51-824c-4695-b9c1-5ca8127dc4fb/2.m3u8", // Replaced with working test stream
+            type: "m3u8",
+            isHD: true
+        },
+        {
+            id: 10,
+            name: "Biz Cinema",
+            category: "entertainment",
+            logo: "https://smotret.tv/images/biz-cinema.jpg",
+            stream: "https://fl.biztv.media/cinema_720_EMfSyXgoRdiIHgldXTZICucKTIeCKO/tracks-v1a1/mono.m3u8", // Replaced with working test stream
+            type: "m3u8",
+            isHD: true
         }
         // {
         //     id: 4,
