@@ -31,13 +31,22 @@
         },
         {
             id: 4,
-            name: "Republic TV",
-            category: "news",
-            logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Republic_TV.svg/1200px-Republic_TV.svg.png",
-            stream: "https://www.youtube.com/embed/UoQ4GO38F8U?autoplay=1",
-            type: "youtube",
+            name: "Deen TV",
+            category: "movies",
+            logo: "https://yt3.googleusercontent.com/ytc/AIdro_kCghRDd9v_kjUUTQv7tay9lgq6JsR_Gbv6vHaTJ9h23A=s900-c-k-c0x00ffffff-no-rj",
+            stream: "https://ap02.iqplay.tv:8082/iqb8002/d33ntv/playlist.m3u8", // Replaced with working test stream
+            type: "m3u8",
             isHD: true
         }
+        // {
+        //     id: 4,
+        //     name: "Republic TV",
+        //     category: "news",
+        //     logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Republic_TV.svg/1200px-Republic_TV.svg.png",
+        //     stream: "https://www.youtube.com/embed/UoQ4GO38F8U?autoplay=1",
+        //     type: "youtube",
+        //     isHD: true
+        // }
     ];
     
     // DOM Elements
@@ -174,7 +183,7 @@
             'entertainment': 'Entertainment',
             'news': 'News',
             'sports': 'Sports',
-            'movies': 'Movies',
+            'movies': 'Islamic',
             'kids': 'Kids',
             'music': 'Music'
         };
