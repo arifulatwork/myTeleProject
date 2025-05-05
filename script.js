@@ -87,7 +87,7 @@
             id: 10,
             name: "Biz Cinema",
             category: "entertainment",
-            logo: "https://smotret.tv/images/biz-cinema.jpg",
+            logo: "https://th.bing.com/th/id/OIP.MYcNstFLD6MvBBbELKZLEQHaEK?cb=iwp1&rs=1&pid=ImgDetMain",
             stream: "https://fl.biztv.media/cinema_720_EMfSyXgoRdiIHgldXTZICucKTIeCKO/tracks-v1a1/mono.m3u8", // Replaced with working test stream
             type: "m3u8",
             isHD: true
